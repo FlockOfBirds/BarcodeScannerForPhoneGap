@@ -9,3 +9,4 @@ test/.project
 *.bak
 .idea/
 *.mws
+dist
