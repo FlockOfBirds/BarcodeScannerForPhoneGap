@@ -1,4 +1,5 @@
 node_modules/
+dist/
 test/javasource/
 test/deployment/
 test/.classpath
@@ -9,4 +10,3 @@ test/.project
 *.bak
 .idea/
 *.mws
-dist
